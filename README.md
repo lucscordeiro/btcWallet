@@ -12,7 +12,7 @@ Electrum (aplicativo desktop para enviar e receber transações em bitcoin)
 Certifique-se de ter esses requisitos instalados antes de prosseguir.
 
 Clonando o repositório
-git clone https://github.com/yohanaff/dio-criando-e-utilizando-a-sua-carteira-de-criptomoedas.git
+git clone https://github.com/lucscordeiro/btcWallet
 Executando o projeto
 cd src
 node createWallet.js
